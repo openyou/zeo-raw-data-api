@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ZeoRawData
+Version: 2.0
+Summary: Zeo Raw Data Library
+Home-page: http://www.myzeo.com
+Author: Zeo Inc.
+Author-email: customersupport@myZeo.com
+License: http://developers.myzeo.com/terms-and-conditions/
+Description: Library allowing real-time interaction with a Zeo running the 2.6.3R firmware.
+Platform: UNKNOWN
